@@ -1,6 +1,6 @@
 # 🚀 TechnoByte - The Technical Learning Hub of SVCET  
 
-![TechnoByte Banner](https://aabhash-paudel.github.io/TechnoByte/assets/banner.png)  
+
 
 ## 🎯 About TechnoByte  
 TechnoByte is a **technical video-sharing platform** for the students of **Sri Venkateswara College of Engineering and Technology (SVCET)**. It serves as a **centralized hub for learning**, where students can **upload, share, and watch educational videos** related to different engineering and technology departments.  
