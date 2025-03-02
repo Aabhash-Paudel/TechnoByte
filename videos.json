@@ -155,6 +155,45 @@
       "authorImage": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=640",
       "views": 1932,
       "uploadDate": "2024-12-10T13:20:00Z"
+    },
+     {
+      "id": "112",
+      "title": "Introduction to Python Programming",
+      "description": "Learn the basics of Python, including syntax, loops, and data structures.",
+      "department": "ece",
+      "driveLink": "https://drive.google.com/file/d/1Qo3bMVZHQrOSMZg1_rZlRwR7ZRmDPNCj/preview",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1585079542392-431f8b88c6b1?auto=format&fit=crop&q=80&w=640",
+      "duration": 480,
+      "author": "Dr. Anjali Sharma",
+      "authorImage": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=640",
+      "views": 1340,
+      "uploadDate": "2025-02-20T09:30:00Z"
+    },
+    {
+      "id": "114",
+      "title": "Blockchain Basics and Applications",
+      "description": "Overview of blockchain technology, cryptocurrencies, and real-world use cases.",
+      "department": "cse",
+      "driveLink": "https://drive.google.com/file/d/1Qo3bMVZHQrOSMZg1_rZlRwR7ZRmDPNCj/preview",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1542621334-82d369fa1dda?auto=format&fit=crop&q=80&w=640",
+      "duration": 550,
+      "author": "Dr. Rohan Malhotra",
+      "authorImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=640",
+      "views": 980,
+      "uploadDate": "2025-02-18T15:10:00Z"
+    },
+    {
+      "id": "115",
+      "title": "Cloud Computing Essentials",
+      "description": "Introduction to cloud services, virtualization, and deployment models.",
+      "department": "mech",
+      "driveLink": "https://drive.google.com/file/d/1Qo3bMVZHQrOSMZg1_rZlRwR7ZRmDPNCj/preview",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1535379453347-1ffd615e2e08?auto=format&fit=crop&q=80&w=640",
+      "duration": 600,
+      "author": "Dr. Kavita Reddy",
+      "authorImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=640",
+      "views": 1123,
+      "uploadDate": "2025-02-16T12:45:00Z"
     }
   ]
 }
