@@ -1,19 +1,6 @@
 {
   "videos": [
     {
-      "id": "2",
-      "title": "Advanced Algorithms Analysis",
-      "description": "Deep dive into algorithm complexity, optimization techniques, and real-world applications.",
-      "department": "cse",
-      "driveLink": "https://drive.google.com/file/d/1SfT9QZR2XyS5V8jLkTcLJz7fgHvUxQxx/preview",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?auto=format&fit=crop&q=80&w=640",
-      "duration": 540,
-      "author": "Dr. Priya Sharma",
-      "authorImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=640",
-      "views": 987,
-      "uploadDate": "2025-02-10T14:15:00Z"
-    },
-    {
       "id": "3",
       "title": "Digital Signal Processing Fundamentals",
       "description": "Introduction to signal processing concepts, Fourier transforms, and filter design.",
