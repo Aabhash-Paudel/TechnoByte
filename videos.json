@@ -1,24 +1,11 @@
 {
   "videos": [
     {
-      "id": "1",
-      "title": "Introduction to Data Structures",
-      "description": "Learn the fundamentals of data structures including arrays, linked lists, stacks, and queues.",
-      "department": "cse",
-      "driveLink": "https://drive.google.com/file/d/1Qo3bMVZHQrOSMZg1_rZlRwR7ZRmDPNCj/preview",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&q=80&w=640",
-      "duration": 420,
-      "author": "Dr. Rajesh Kumar",
-      "authorImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=640",
-      "views": 1245,
-      "uploadDate": "2025-02-15T10:30:00Z"
-    },
-    {
       "id": "2",
       "title": "Advanced Algorithms Analysis",
       "description": "Deep dive into algorithm complexity, optimization techniques, and real-world applications.",
       "department": "cse",
-      "driveLink": "https://drive.google.com/file/d/1FbvKwR0jGM3YJk8_zL9B9g9HFgPjTfto/preview",
+      "driveLink": "https://drive.google.com/file/d/1SfT9QZR2XyS5V8jLkTcLJz7fgHvUxQxx/preview",
       "thumbnailUrl": "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?auto=format&fit=crop&q=80&w=640",
       "duration": 540,
       "author": "Dr. Priya Sharma",
@@ -31,7 +18,7 @@
       "title": "Digital Signal Processing Fundamentals",
       "description": "Introduction to signal processing concepts, Fourier transforms, and filter design.",
       "department": "ece",
-      "driveLink": "https://drive.google.com/file/d/1Ks9AnFCbIpvu8GvGvUiwZm9VYUa9jLxA/preview",
+      "driveLink": "https://drive.google.com/file/d/1SfT9QZR2XyS5V8jLkTcLJz7fgHvUxQxx/preview",
       "thumbnailUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?auto=format&fit=crop&q=80&w=640",
       "duration": 380,
       "author": "Dr. Anand Verma",
@@ -142,19 +129,6 @@
       "authorImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=640",
       "views": 845,
       "uploadDate": "2024-12-15T09:15:00Z"
-    },
-    {
-      "id": "12",
-      "title": "Web Development Technologies",
-      "description": "Modern web development techniques, frameworks, and best practices.",
-      "department": "it",
-      "driveLink": "https://drive.google.com/file/d/1TjU9QZR2XyS5V8jLkTcLJz7fgHvUxQxx/preview",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1547658719-da2b51169166?auto=format&fit=crop&q=80&w=640",
-      "duration": 530,
-      "author": "Dr. Rajat Verma",
-      "authorImage": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=640",
-      "views": 1932,
-      "uploadDate": "2024-12-10T13:20:00Z"
     }
   ]
 }
